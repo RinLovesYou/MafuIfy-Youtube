@@ -1,17 +1,17 @@
 
 <div align = center >
 
-# MrBeastify
+# MafuIfy
 
 <br>
 
 Is your browser experience boring? Are you having  
-trouble finding engaging click-baity videos?
+trouble finding engaging videos?
 
 **Fear no more.**
 
 This extension adds the famous  
-youtuber **MrBeast** to every thumbnail.
+youtuber **~~Scott The Woz~~ Mafu** to every thumbnail.
 
 <br>
 
